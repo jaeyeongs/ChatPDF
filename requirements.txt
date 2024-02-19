@@ -1,0 +1,7 @@
+langchain
+openai==0.28.0
+pypdf
+chromadb==0.4.15
+tiktoken
+streamlit
+python-dotenv
